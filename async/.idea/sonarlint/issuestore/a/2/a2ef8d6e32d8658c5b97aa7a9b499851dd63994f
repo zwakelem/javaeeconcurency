@@ -1,0 +1,7 @@
+
+1squid:S1220""Move this file to a named package.
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²«’8º“úÙã-
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÖİÌùÿÿÿÿ8º“úÙã-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8º“úÙã-
