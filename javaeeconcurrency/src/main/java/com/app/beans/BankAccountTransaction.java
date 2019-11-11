@@ -12,7 +12,7 @@ public class BankAccountTransaction {
     private int accNumber;
     private double amount;
     private Date txDate;
-    private String tsType;
+    private String txType;
     private int txId;
 
 }

@@ -2,7 +2,6 @@
 # ignore files in this directory
 .idea/
 .gradle/
-*.iml
 *.ipr
 *.iws
 
